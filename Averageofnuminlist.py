@@ -6,4 +6,4 @@ for i in range(0,n):
     avg = sum(a)/n
 print(avg)
 
-
+#this is just a test
