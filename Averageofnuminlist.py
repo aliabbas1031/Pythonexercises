@@ -9,4 +9,3 @@ print(avg)
 #this is just a test
 
 
-#this is to check code is pushed
